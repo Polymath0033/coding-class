@@ -1,0 +1,116 @@
+/* h1{
+    color:black;
+} */
+
+
+/* id
+class
+element */
+
+
+/* How to select element with id */
+
+
+/* #paragraph {
+    font-size: 30px;
+    color: blue;
+}
+
+#btn-7 {
+    background-color: indigo;
+} */
+
+
+/* How to select with class */
+
+
+/* .h {
+    color: blue;
+}
+.h{}
+.z{
+
+} */
+
+
+/* .btn {
+    color: white;
+    background-color: red;
+    padding: 0.2rem 0.4rem;
+}
+
+.five {
+    background-color: blue;
+} */
+
+
+/* How to select with tag */
+
+
+/* 
+p {
+    color: red;
+}
+
+.confusion {
+    color: yellow;
+    background-color: black;
+}
+
+#confusion {
+    color: white;
+    background-color: red;
+}
+
+div {
+    color: green;
+    background-color: orange;
+} */
+
+
+/* CSS Color */
+
+
+/* Name: red,  blue , green e.tc */
+
+
+/* rgb(red, green and black), rgba(red,green, black, alpha) */
+
+
+/* red,green, and black :0-255 */
+
+
+/*  */
+
+
+/* rgb(200,120,40) 
+
+*/
+
+
+/* HEX #fff, #ddd, #888, #000, #005, #ffff, #ddd6, #ffffff, #00000b, */
+
+
+/* hsl-> hue, saturation%, lightening, hsla( alpha) */
+
+
+/* 0-120 -> red */
+
+
+/* 120 - 239-> green */
+
+
+/* 240 - 360 -> black */
+
+
+/*  */
+
+
+/* CSS Background */
+
+.background {
+    background-color: rgb(2, 40, 10);
+    width: 200px;
+    height: 200px;
+    color: white;
+}
