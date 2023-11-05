@@ -108,9 +108,98 @@ div {
 
 /* CSS Background */
 
-.background {
+
+/* Background Color */
+
+
+/* .background {
     background-color: rgb(2, 40, 10);
     width: 200px;
     height: 200px;
     color: white;
+} */
+
+
+/* Background Images */
+
+.background {
+    width: 500px;
+    height: 500px;
+    /* background-image: url('bg-unique.svg'); */
+    /* background-image: url('images/frame_3.png'); */
+    background-image: url('images/backgrounds/frame.png');
+}
+
+h1 {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+/* Background Repeat */
+
+
+/* .background { */
+
+
+/* background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-repeat: repeat;
+    background-repeat: no-repeat; */
+
+
+/* background-size: cover; */
+
+
+/* no-repeat;
+    repeat-x
+    repeat-y
+    repeat */
+
+
+/* } */
+
+
+/* .background {
+     background-repeat: no-repeat; 
+} */
+
+
+/* Background Size */
+
+
+/* .background { */
+
+
+/* background-size: contain;
+    background-size: cover;
+    background-size: auto; */
+
+
+/* contain;
+    cover;
+    auto; */
+
+
+/* } */
+
+
+/* Borders */
+
+.button {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    margin: 20px auto;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    /* Border property */
+    border: 10px solid green
+    /* border;
+    border-style: "solid","dotted","dashed","groove","doubled";
+    border-color: rgb(),name;
+    border-width:px ,rem,em,%;
+    border-radius; */
 }
