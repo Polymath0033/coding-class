@@ -187,19 +187,16 @@ h1 {
 
 /* Borders */
 
-.button {
-    width: 500px;
-    height: 500px;
-    background-color: blue;
-    margin: 20px auto;
-    text-align: center;
-    color: white;
-    font-size: 40px;
-    /* Border property */
-    border: 10px solid green
-    /* border;
-    border-style: "solid","dotted","dashed","groove","doubled";
-    border-color: rgb(),name;
-    border-width:px ,rem,em,%;
-    border-radius; */
+.button{
+    color: aqua;
+    height: 400px;
+    width: 400px;
+
+}
+body{
+    background-image: url(/profile/frame_6.png);
+    background-repeat: 
+    no-repeat;
+    background-size: 75%;
+    
 }
