@@ -1,0 +1,84 @@
+/* Borders */
+
+
+/* Border width */
+
+
+/* px, em, rem, cm, ex,x */
+
+
+/* Border style */
+
+
+/* solid,dashed,double,dotted,inset,outset,groove,ridge, none */
+
+
+/* Border color */
+
+
+/* color_name, hex(#fff) rgb((a)) hsl((a)) */
+
+#border {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: blue;
+    color: white;
+    border-style: /*solid*/
+    /* double */
+    /* dashed */
+    dotted;
+    border-width: 3px;
+    border-color: red;
+}
+
+
+/* Specifying the border target*/
+
+
+/* positon of the border=> top,right,bottom and left */
+
+
+/* border-*-style The asterik here represents the position of the border
+border-*-color 
+border-*-width */
+
+.border-specification {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 3rem auto;
+    border-top-style: solid;
+    border-left-style: dashed;
+    border-bottom-style: dotted;
+    border-right-style: double;
+    border-top-color: violet;
+    border-left-color: blue;
+    border-right-color: black;
+    border-bottom-color: white;
+    border-width: 5px;
+}
+
+
+/* border shorthand */
+
+.border-specification {
+    /* border: width style color; */
+    /* border: 4px solid blue; */
+    border-top: 3px solid violet;
+    border-left: 5px dashed blue;
+    border-bottom: 5px dotted white;
+    border-right: 5px double black;
+}
+
+
+/* Border radius */
+
+.border-specification {
+    /* border-radius: 50px; */
+    /* border-bottom-left-radius: 12px; */
+    border-top-right-radius: 30px;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 60px;
+    border-radius: 50%;
+}
