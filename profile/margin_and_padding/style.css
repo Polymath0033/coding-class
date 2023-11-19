@@ -13,6 +13,14 @@ body {
     background-color: red;
 }
 
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .margin {
     /* margin: 0 auto;
     text-align: center; */
@@ -39,3 +47,18 @@ h1 {
 /* .margin {
     margin: 0 auto;
 } */
+
+.padding {
+    width: 40em;
+    height: 40em;
+    /* border-radius: 50%; */
+    background-color: purple;
+    margin: 0 auto;
+    padding: 10em;
+}
+
+#sub-padding {
+    width: 20em;
+    height: 20em;
+    background-color: black;
+}

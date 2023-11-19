@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Height and Width */
+
+
+/* CSS Properties for Height and Width */
+
+
+/* height
+max-heigh
+width
+max-width */
+
+
+/* Values for height and width size(px,rem,em.vh or vw),auto fit-content, max-content and max-content */
+
+.height {
+    background-image: url('../frame_6.png');
+    /* width: 10cm;
+    height: 10cm; */
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    height: min-content;
+    width: max-content;
+}
