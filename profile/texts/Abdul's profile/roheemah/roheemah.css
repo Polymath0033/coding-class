@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+And+White+Picture&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+And+White+Picture&family=Pacifico&family=Rouge+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+And+White+Picture&family=Gloria+Hallelujah&family=Pacifico&family=Rouge+Script&display=swap');
+body{
+    background-color: rgb(218, 208, 214);
+    font-family: 'Cedarville Cursive';
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    border: 1px;
+    border-radius: 50%;
+}
+h1{
+    font-family:Black And White Picture;
+}
+h2{
+    font-family: Rouge Script;
+}
+li{
+    font-family: Gloria Hallelujah;
+    
+}
