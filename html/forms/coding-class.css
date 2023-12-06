@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #000;
+}
+
+h2 {
+    text-align: center;
+}
+
+.list {
+    margin-top: 1rem;
+    list-style-type: none;
+    /* margin: 0 auto; */
+    width: 100%;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+    align-items: center;
+    gap: 0.3rem;
+    margin-bottom: 4rem;
+}
