@@ -23,11 +23,30 @@ h2 {
 }
 
 form {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    width: 70%;
-    align-items: center;
-    gap: 0.3rem;
-    margin-bottom: 4rem;
+    display: grid;
+    width: 300px;
+    margin-left: 4rem;
 }
+
+label {
+    display: block;
+    color: blue;
+    margin-top: 0.8rem;
+    margin-bottom: 0.6rem;
+    font-weight: 700;
+}
+
+input {
+    border: 1px solid blue;
+    padding: 0.5rem 0.6rem;
+    border-radius: 14px;
+    color: blue;
+    outline: none;
+}
+
+input:focus {
+    color: red;
+}
+
+
+/* How to style forms */
