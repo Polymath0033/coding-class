@@ -89,7 +89,32 @@ body {
 
 .float-right {
     float: right;
-    width: 300px;
-    height: 200px;
+    width: 400px;
+    height: 200%;
+    background-color:green;
+}
+.float-left {
+    float:inline-start;
+    width: 400px;
+    height: 200%;
+    background-color: green;
+}
+#hr{
+    color: brown;
+}
+#static{
+    height: 58px;
+    width: 58px;
     background-color: red;
 }
+#Absolute{
+    height: 58px;
+    width: 58px;
+    background-color: darkturquoise;
+}
+
+
+
+
+
+
