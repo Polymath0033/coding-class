@@ -5,8 +5,8 @@ th {
     border-collapse: collapse;
 }
 
-thead {
-    background-color: blue;
+th {
+    color: white;
 }
 
 td,
@@ -55,4 +55,20 @@ tr :nth-child(){
 }
 .header{
     background-color: rgb(83, 81, 79);
+}
+
+td {
+    color: black;
+}
+
+tr:nth-child(even) {
+    background-color: red;
+}
+
+tr:nth-child(odd) {
+    background-color: orange;
+}
+
+thead {
+    background-color: blue;
 }
