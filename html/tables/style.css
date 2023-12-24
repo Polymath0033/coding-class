@@ -13,3 +13,46 @@ td,
 th {
     padding: 0.5rem;
 }
+tr :nth-child(){
+    background-color: aqua;
+}
+tr :nth-child(){
+    background-color: red;
+}
+#sar{
+    background-color: purple;
+}
+#sae{
+    background-color:red
+}
+#sad{
+    background-color: blue;
+}
+#sal{
+    background-color: red;
+}
+#ews{
+    background-color: blue;
+}
+#swe{
+    background-color: red;
+}
+#wes{
+    background-color: purple;
+}
+#sew{
+    background-color: blue;
+}
+
+tr :nth-child(){
+    background-color: red;
+}
+#come{
+    background-color: #e00025;
+}
+#sad{
+    background-color:rgb(83, 81, 78)
+}
+.header{
+    background-color: rgb(83, 81, 79);
+}
